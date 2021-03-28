@@ -46,7 +46,7 @@
 
 申请完毕后，在分支中点击`Settings`-`Secrets`-`New secret`
 
-<img src="assets/new_repository_secret.png" alt="set_up_workflow" style="zoom:80%;" />
+<img src="https://github.com/MuzhenStudio/Readme/blob/main/backup/assets/new_repository_secret.png" alt="set_up_workflow" style="zoom:80%;" />
 
 `name`填`PAT`，`Value`填入上方申请到的PAT,保存即可
 
